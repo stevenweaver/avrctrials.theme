@@ -24,6 +24,7 @@ setup(name='avrctrials.theme',
       install_requires=[
           'setuptools',
           'plone.app.theming',
+          'plone.app.ldap',
           'webcouturier.dropdownmenu',
           'z3c.jbot'
 
